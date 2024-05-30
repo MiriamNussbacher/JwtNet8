@@ -1,0 +1,6 @@
+@JwtNet8_HostAddress = http://localhost:5145
+
+GET {{JwtNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
